@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+My name is Niyi and I'm a full stack developer. I work a lot with WordPress, PHP, Angular, Ruby on Rails and MSSQL.
+Find me on twitter https://twitter.com/Niyi_Adewole 
 <!--
 **9janeo/9janeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
